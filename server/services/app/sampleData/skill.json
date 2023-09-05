@@ -1,0 +1,32 @@
+[
+    {
+        "jobId": 1,
+        "name": "Keuangan",
+        "level": "Beginner"
+    },
+    {
+        "jobId": 2,
+        "name": "Food Analysis",
+        "level": "Beginner"
+    },
+    {
+        "jobId": 3,
+        "name": "Car Repair",
+        "level": "Advanced"
+    },
+    {
+        "jobId": 2,
+        "name": "Food Testing",
+        "level": "Advanced"
+    },
+    {
+        "jobId": 3,
+        "name": "Car Remodelling",
+        "level": "Beginner"
+    },
+    {
+        "jobId": 1,
+        "name": "Financial Risk",
+        "level": "Intermediate"
+    }
+]

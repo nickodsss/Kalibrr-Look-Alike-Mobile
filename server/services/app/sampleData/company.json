@@ -1,0 +1,23 @@
+[
+    {
+        "name": "PT. Bank Central Asia",
+        "companyLogo": "https://www.bca.co.id/-/media/Feature/Card/List-Card/Tentang-BCA/Brand-Assets/Logo-BCA/Logo-BCA_Biru.png",
+        "location": "Jakarta Region",
+        "email": "hiring@bca.com",
+        "description": "Since 1997 We Grow Together"
+    },
+    {
+        "name": "PT. ABC Indonesia",
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ABC_food_%282016%29.svg",
+        "location": "D.I Yogyakarta",
+        "email": "hiring@abcheinz.com",
+        "description": "Need employess to develop a new project"
+    },
+    {
+        "name": "PT. Mercindo Mercedes Benz Indonesia",
+        "companyLogo": "https://1.bp.blogspot.com/-yWFdOSTrZEc/YNlD-Df3dcI/AAAAAAAAIqE/RFMB5p61xwcTWqO7ggGx7Fap4SGgw9X0wCLcBGAsYHQ/s1000/logo-mercedez-benz.jpg",
+        "location": "Bandung",
+        "email": "hiring@mercedes.com",
+        "description": "Need car engineer more than you think"
+    }
+]

@@ -1,0 +1,21 @@
+services:
+  app_service:
+    build: ./services/app
+    ports:
+      - "3001:3001"
+    environment:
+      - DATABASE_URL=
+  user_service:
+    build: ./services/users
+    ports:
+      - "3000:3000"
+    environment:
+      - CONNECTION_STRING=
+  orchestrator:
+    build: ./orchestrator-graphql
+    ports:
+      - "80:4000"
+    environment:
+      - APP_SERVICE_URL=http://app_service:3001
+      - USER_SERVICE_URL=http://user_service:3000
+      - REDIS=

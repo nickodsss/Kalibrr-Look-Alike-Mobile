@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Business Analyst",
+        "description": "Minimal Lulusan S1 Business Analyst",
+        "companyId": 1,
+        "authorId": "64b8fcbd3bd689ef6a7eda5f",
+        "jobType": "Full Time"
+    },
+    {
+        "title": "Food Engineer",
+        "description": "Minimal Lulusan S1 Food Technology",
+        "companyId": 2,
+        "authorId": "64b8fcbd3bd689ef6a7eda60",
+        "jobType": "Part Time"
+    },
+    {
+        "title": "Car Engineer",
+        "description": "Minimal Lulusan S1 Teknik Otomotif",
+        "companyId": 3,
+        "authorId": "64b8fcbd3bd689ef6a7eda61",
+        "jobType": "Full Time"
+    }
+]

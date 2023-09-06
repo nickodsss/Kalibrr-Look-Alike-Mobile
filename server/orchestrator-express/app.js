@@ -6,7 +6,7 @@ const express = require('express')
 const FIRST_SERVER_URL = "http://localhost:3000"
 const SECOND_SERVER_URL = "http://localhost:3001"
 
-const redis = new Redis(13795, 'redis://default:bOLsNFDtfiWyas54xT4WFLQXZh1Dt8G1@redis-13795.c295.ap-southeast-1-1.ec2.cloud.redislabs.com:13795');
+const redis = new Redis(13795, process.env.REDIS);
 
 const app = express()
 const port = 8000
